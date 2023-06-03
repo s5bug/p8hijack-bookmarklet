@@ -1,1 +1,1 @@
-javascript:fetch(%22https%3A%2F%2Fs5bug.github.io%2Fp8hijack-bookmarklet%2Fp8hijack.js%22).then(b%20%3D%3E%20eval(b.text()))
+javascript:fetch(%22https%3A%2F%2Fs5bug.github.io%2Fp8hijack-bookmarklet%2Fp8hijack.js%22).then(b%3D%3Eb.text()).then(t%3D%3Eeval(t))
