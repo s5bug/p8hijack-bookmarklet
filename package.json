@@ -1,0 +1,20 @@
+{
+  "name": "p8hijack-bookmarklet",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "upng-js": "^2.1.0",
+    "base64-arraybuffer": "^1.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9",
+    "@types/upng-js": "^2.1.2"
+  }
+}
